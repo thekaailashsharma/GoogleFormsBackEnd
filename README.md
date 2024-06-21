@@ -51,7 +51,7 @@ During the development of this project, I gained experience and knowledge in the
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/thekaailashsharma/GoogleFormsBackend.git
     cd your-repo-name
     ```
 
